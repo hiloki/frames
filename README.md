@@ -1,4 +1,4 @@
-frames
+Frames
 ======
 
 Image/Picture frames gallery
